@@ -1,0 +1,31 @@
+
+body {
+    background-color: #ffe135; 
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+
+h1, h2 {
+    color: #ff007f; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+}
+
+
+.destaque {
+    background-color: #b3ebf2; 
+    color: #00008b;            
+    padding: 15px;             
+    margin: 20px 0;            
+    border-left: 5px solid #1f51ff; 
+    border-radius: 5px;        
+}
+
+
+/*O maior desafio foi compreender como usar o estilo de css. Apos realizar o tutorial, achei mais dificil construir o site sozinha do que o html.*/
+/*O maior erro que eu fiz foi esquecer me meter um ponto e virgula depois de todos os no final das configuracoes, o que me obrigou a regressar ao Nextpad++*/
+/*No meu site o atributo href foi usado em duas situacoes: na primeira para criar uma ligacao das palavras "poderes especiais" para uma seccao mais abaixo no site que fala nos poderes especiais; na segunda para criar uma hiperligacao para um site externo na loja online da Nintendo.*/
+
+	
+
+
